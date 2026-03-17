@@ -12,6 +12,5 @@ SQL, Power BI, Python
 * `customer_data.csv`
 * `SQL Analysis on Data.sql`
 * `Customer_behaviour_analysis.ipynb`
-* `Dashboard.pbix`
 
 
